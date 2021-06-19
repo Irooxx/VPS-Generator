@@ -13,6 +13,4 @@ Aujourd'hui je vous présente un Générateur de VPS biensûr gratuit
 - Obfuscation : 0% finit
 
 # Si vous avez des questions venez sur :
-[discord.gg/devfr](https://discord.gg/devfr)
-# Github de Iroo
-[Iroo](https://github.com/bichoute/)
+[discord.gg/devfr](https://discord.gg/devfr) & Github de Iroo : [Iroo](https://github.com/bichoute/)
