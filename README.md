@@ -12,4 +12,7 @@ Aujourd'hui je vous présente un Générateur de VPS biensûr gratuit
 - API : 10% finit
 - Obfuscation : 0% finit
 
-# Si vous avez des questions venez sur discord.gg/devfr
+# Si vous avez des questions venez sur :
+Discord
+-----
+[discord.gg/devfr](https://discord.gg/devfr)
